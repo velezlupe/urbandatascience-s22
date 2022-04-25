@@ -15,6 +15,7 @@ dependencies:
   - matplotlib
   - seaborn
   - PyPDF2
+  - pdfminer.six
   - nltk
   - gensim
   - pyLDAvis
