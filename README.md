@@ -102,13 +102,27 @@ Week 4: Spatial joins
 * [Class activities](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/classes/Class%204.ipynb)
 
 Week 5: Machine learning: prediction
+* [Part 1: Preparation](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/12%20Classification%20part%201%20Preparation.ipynb)
+* [Part 2: Random forests](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/13%20Classification%20part%202%20Random%20forests.ipynb)
+* [Part 3: Neural nets](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/14%20Classification%20part%203%20Neural%20nets.ipynb)
+
+[HW3: Due Tuesday May 10](https://classroom.github.com/a/NJt91CEo)
 
 Week 6: Machine learning: clustering
+* [Clustering](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/15%20Clustering.ipynb)
+* [Spatial clusters](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/16%20Spatial%20clusters.ipynb)
 
-Week 7: Natural language processing: parsing
+Week 7: Catch up
 
-Week 8: Natural language processing: topic modeling and sentiment analysis
+[HW4: Due Tuesday May 24](https://classroom.github.com/a/5OEGgXfm)
 
-Week 9: Databases
+Week 8: Natural language processing: parsing
+* [Parsing PDFs](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/17%20Parsing%20PDFs.ipynb)
+* [Parsing text](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/18%20Parsing%20text.ipynb)
 
-Week 10: Big data, privacy, and ethics
+Week 9: Natural language processing: topic modeling and sentiment analysis
+* [Topic modeling](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/19%20Topic%20modeling.ipynb)
+* [Twitter](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/20%20Twitter.ipynb)
+* [Sentiment analysis](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/21%20Sentiment%20analysis.ipynb)
+
+Week 10: Databases, big data, privacy, and ethics
