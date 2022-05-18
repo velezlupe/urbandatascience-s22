@@ -18,6 +18,7 @@ dependencies:
   - pdfminer.six
   - nltk
   - gensim
+  - openpyxl
   - pyLDAvis
   - pygeos
   - tweepy
