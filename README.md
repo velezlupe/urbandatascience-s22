@@ -126,3 +126,8 @@ Week 9: Natural language processing: topic modeling and sentiment analysis
 * [Sentiment analysis](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/21%20Sentiment%20analysis.ipynb)
 
 Week 10: Databases, big data, privacy, and ethics
+* [Big data](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/22%20Big%20data.ipynb)
+* [Parallel processing](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/23%20Parallelization.ipynb)
+* [Databases and SQL](https://github.com/UCLALuskinDataScience/urbandatascience-s22/blob/main/Lectures/24%20Databases%20and%20SQL.ipynb)
+
+[HW5: Due Tuesday June 7](https://classroom.github.com/a/9nXQyBOA)
